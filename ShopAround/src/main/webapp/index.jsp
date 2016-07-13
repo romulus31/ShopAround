@@ -7,5 +7,8 @@
 <html>
 <body>
 <h2>Hello ShopAround !</h2>
+
+Bienvenue dans l'application qui va vous permettre de trouver rapidement votre magasin <br/>
+au moment où vous le souhaitez
 </body>
 </html>
